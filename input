@@ -1,0 +1,11 @@
+
+<form class="" action="index.html" method="post">
+<label for="">Choose a profile picture</label>
+<input type="file" name="avatar" accept="image/jpeg, image/x-png"> <br>
+<label for="pass">Password</label>
+<input type="password" name="password"> <br>
+<label for="">Would you like to get an e-mail to confirm that I have received your information?</label>
+<input type="checkbox" name="" value=""> <br>
+<label for="">Date of submission</label>
+<input type="date" name="" value="2021-03-10" min="2021-03-10" max="2031-03-10">
+</form>
